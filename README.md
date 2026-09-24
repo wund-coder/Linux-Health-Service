@@ -3,7 +3,7 @@
 Script em Bash para diagnóstico rápido de um sistema Linux — coleta uso de CPU, memória, disco, status de serviços (SSH, Cron, Nginx) e conectividade de rede, tudo num único comando.
 
 ## Por quê
-Feito pra praticar shell scripting e comandos básicos de monitoramento/sysadmin (systemctl, awk, df, free) — primeiro projeto do meu portfólio de estudos em Linux.
+Feito pra praticar shell scripting e comandos básicos de monitoramento/sysadmin (systemctl, awk, df, free) primeiro projeto do meu portfólio de estudos em Linux.
 
 ## Como usar
 ```bash
